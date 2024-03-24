@@ -1,0 +1,7 @@
+print('hello user')
+Name='what is your name?'
+Age='waht is your age?'
+Location='where do you live?'
+print(Name)
+print(Age)
+print(Location)
